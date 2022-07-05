@@ -1,0 +1,24 @@
+Métodos http:
+
+Define um conjunto de métodos de requisição responsáveis
+por indicar a ação a ser executada para um dado recusrso. Embora esse métodos possam ser descritos
+como substantivos, eles também são comumente denominados como Verbos HTTP.
+Cada um eles implementa uma semântica diferente, mas alguns recursos são compartilhados por um método de requisição.
+
+
+GET --------
+
+HEAD --------
+
+PUT --------- 
+
+DELETE --------- 
+
+CONNECT -------- 
+
+OPTIONS --------
+
+TRACE --------- 
+
+PATCH ---------  
+
